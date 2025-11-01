@@ -1,1 +1,1 @@
-print("Hola alumnos del taller clase 2")
+print("Hola alumnos del taller ya estamos vinculados")
